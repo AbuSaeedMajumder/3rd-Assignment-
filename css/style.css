@@ -1,0 +1,33 @@
+h3{
+	color: blue;
+}
+h1{
+	color: blue;
+}
+
+.head1{
+	background-color: yellow;
+}
+
+.border{
+	border: 5px solid red;
+}
+#h1{
+	font-size: 50px
+}
+#h5{
+	color: blue;
+}
+
+h4{
+	color: #24bf24;
+}
+
+.h5{
+	color: red;
+}
+ 
+.box{
+	width: 200pt;
+	height: 200pt;
+	background-color: rgb(00, 00, 00, .5);
